@@ -1,0 +1,153 @@
+^XA
+
+     ^FO 32,48
+          ^GB 432,44,1,B
+     ^FS
+     ^CF A,16
+     ^FO 32,40
+          ^FD Buyer
+     ^FS
+     ^CF A,21
+     ^FO 80,50
+          ^FD YAMAICHI ELECTRONICS CO., LTD
+     ^FS
+
+
+
+     ^FO 32,92
+          ^GB 432,48,1,B
+     ^FS
+     ^CF A,16
+     ^FO 32,84
+          ^FD Delivery place name
+     ^FS
+     ^CF A,17
+     ^FO 160,84
+          ^FD W021
+     ^FS
+
+
+
+     ^FO 32,140
+          ^GB 432,44,1,B
+     ^FS
+      ^CF A,16
+     ^FO 32,132
+          ^FD Delivery Key No.
+     ^FS
+     ^CF A,21
+     ^FO 140,145
+          ^FD 4501611478-003+001
+     ^FS
+
+     ^FO 32,184
+          ^GB 432,60,1,B
+     ^FS
+      ^CF A,16
+     ^FO 32,176
+          ^FD Product code
+     ^FS
+     ^FO 56,189
+          ^FD (buyer)
+     ^FS
+     ^CF A,17
+     ^FO 140,180
+          ^FD A115081-001 B
+     ^FS
+     ^CF A,18
+     ^FO 50,215
+          ^FD 10556481
+     ^FS
+
+
+
+     ^FO 32,244
+          ^GB 728,42,1,B
+     ^FS
+     ^CF A,16
+     ^FO 32,236
+          ^FD Product name
+     ^FS
+     ^CF A,21
+     ^FO 50,250
+          ^FD IC357-1444-131P
+     ^FS
+
+     ^FO 32,286
+          ^GB 604,40,1,B
+     ^FS
+     ^CF A,16
+     ^FO 32,278
+          ^FD QTY/Total QTY
+     ^FS
+     ^CF 1,19
+     ^FO 390,290
+          ^FD 350/350
+     ^FS
+
+
+
+     ^FO 32,326
+          ^GB 496,64,1,B
+     ^FS
+     ^CF A,16
+     ^FO 32,318
+          ^FD Comments for buyer
+     ^FS
+     ^CF 1,20
+     ^FO 120,340
+          ^FD / 0001334571-000010    /03
+     ^FS
+
+
+
+     ^FO 464,48
+          ^GB 296,196,1,B
+     ^FS
+     ^CF A,16
+     ^FO 465,40
+          ^FD Vendor
+     ^FS
+     ^CF A,17
+     ^FO 470,70
+          ^FD PRICON MICROELECTRONICS INC.
+     ^FS
+     ^CF A,16
+     ^FO 465,115
+          ^FD Comments for vendor
+     ^FS
+     ^CF A,17
+     ^FO 470,165
+          ^FD 04032014
+     ^FS
+
+
+
+     ^FO 636,286
+          ^GB 124,40,1,B
+     ^FS
+     ^CF A,16
+     ^FO 636,278
+          ^FD Unit
+     ^FS
+     ^CF A,19
+     ^FO 680,295
+          ^FD PC
+     ^FS
+
+
+
+     ^FO 528,326
+          ^GB 232,64,1,B
+     ^FS
+     ^CF A,16
+     ^FO 528,318
+          ^FD Package count
+     ^FS
+     ^CF A,19
+     ^FO 625,350
+          ^FD 1 / 1
+     ^FS
+
+
+^XZ

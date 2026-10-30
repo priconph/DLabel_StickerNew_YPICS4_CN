@@ -1,0 +1,52 @@
+# Excel / spreadsheets
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*.csv
+
+# Documents
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.bak
+
+# Images / media (large)
+*.psd
+*.tif
+*.tiff
+*.bmp
+*.mp4
+*.avi
+*.mov
+*.mp3
+*.wav
+
+# Database dumps
+*.sql
+*.sqlite
+*.mdb
+*.accdb
+
+# Logs / temp
+*.log
+*.tmp
+*.temp
+Thumbs.db
+desktop.ini
+~$*
+
+# Dependencies / IDE
+node_modules/
+vendor/
+.vscode/
+.idea/

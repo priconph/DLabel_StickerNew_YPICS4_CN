@@ -1,0 +1,259 @@
+body{
+				/*background-color:#E7EBF3;*/
+				/*background-color:#A2FA98;*/
+				background-color:#1E824C;
+				font-family:"verdana",sans-serif;
+			}
+			#wrapper{
+				margin: 0 auto;
+				width: 800px;
+				border-color:#000000;
+			}
+			table{
+				color:#000;
+				font-family:"Helvetica";
+				border-collapse: collapse;
+				border-spacing: 0;
+				text-align:center;
+				width:100%;
+				
+			}
+			
+			th{
+				font-size:18px;
+				/*border-bottom:2px solid #FFF;*/
+				padding: 10px 8px;
+				text-align:left;
+				color:#FFF;
+				background-color:#16A085;
+				border-radius:2px;
+				/*background-color:#F8F8F8;*/
+				
+			}
+			
+			.scrollit tr:hover td{
+				background-color:#356600;
+				color:#FFF;
+			}
+			
+			.scrollit tr:hover td a{
+				color:#FFF;
+			}
+			
+			.scrollit tr{
+				background-color:#FFF;
+			}
+			
+			.scrollit tr.clickableRow { 
+				cursor: pointer;
+			}
+
+			.scrollit tr.clickableRow a
+			{
+				display: block;
+				padding: 8px;
+				color:#000;
+				text-decoration:none;
+			}
+			
+			.scrollit td{
+				padding: 9px 8px 0px 8px;
+				font-size:14px;
+				border-bottom:1px solid #000;
+				text-align:center;
+			}
+			
+			.scrollit {
+				overflow:scroll;
+				height:400px;
+				background-color:#515E42;
+				/*border:1px solid #FFF;*/
+			}
+			
+			div#date_today{
+				float:left;
+				display:block;
+				font-size:20px;
+			}
+			
+			div#search{
+				float:right;
+				display:block;
+				font-size:20px;
+			}
+			
+			div#tofromDate{
+				padding-top:20px;
+				float:left;
+				display:block;
+				font-size:20px;
+				text-align:center;
+			}
+			
+			div#newSticker{
+				float:right;
+				padding-top:17px;
+				display:block;
+				font-size:20px;
+				
+			}
+			
+			div#newSticker input{
+				border-radius:2px;
+			}
+			
+			div#inputs{
+				border-radius:2px;
+				padding:10px;
+				float:left;
+				background-color:#03A678;
+				color:#FFF;
+			}
+			
+			div#inputs input[type="text"]{
+				width:200px;
+				height:30px;
+				border-radius:2px;
+				border:0px solid;
+				font-size:20px;
+				
+			}
+			
+			#tableBox{
+				border-radius:2px;
+				margin-top:10px;
+				float:left;
+				background-color:#16A085;
+				width:100%;
+			}
+			
+			.new_Sticker {
+				background-color:#f8f8f8;
+				-moz-border-radius:3px;
+				-webkit-border-radius:3px;
+				border-radius:3px;
+				display:inline-block;
+				cursor:pointer;
+				color:#000;
+				font-family:Arial;
+				font-size:14px;
+				font-weight:bold;
+				padding:8px 18px;
+				text-decoration:none;
+			}
+			.new_Sticker:hover {
+				background-color:#DADFE1;
+			}
+			.new_Sticker:active {
+				position:relative;
+				top:1px;
+			}
+			
+			#datepicker_from, #datepicker_to{
+				text-align:right;
+			}
+
+			#departments{
+				position:absolute;
+				margin-top:-10px;
+				margin-left:0px;
+				float:left;
+				background:#e74c3c;
+				width:auto;
+				height:100%;
+				color:#FFF;
+				z-index:1;
+			}
+			
+			#pCont
+			{
+				width:auto;
+				height:10%;
+			}
+			
+			#listHeader
+			{
+				text-align:center;
+				font-size:18px;
+			}
+			
+			a
+			{
+				text-decoration:none;
+			}
+			
+			#products
+			{
+				list-style:none;
+				width:150px;
+				float:left;
+				margin:0px auto;
+				padding:0;
+			}
+			
+			#products li
+			{
+				margin:0px auto;
+				padding:0;
+			}
+			
+			#products li div
+			{	
+				float:left;
+				display:table;
+				text-align:center;
+				
+				color:#FFF;
+				font-size:28px;
+				width:100%;
+				height:100%;
+				
+			}
+			
+			#products li div span
+			{	
+				display:table-cell;
+				vertical-align:middle;
+			}
+			
+			#products li#TS{
+				background:#2ecc71;
+				width:100%;
+				height:10%;
+			}
+			
+			#products li#TS:hover{
+				background:#96FFC3;
+			}
+			
+			#products li#CN{
+				background:#3498db;
+				width:100%;
+				height:10%;
+			}
+			
+			#products li#CN:hover{
+				background:#9CD7FF;
+			}
+			
+			#products li#YF{
+				background:#f1c40f;
+				width:100%;
+				height:10%;
+			}
+			
+			#products li#YF:hover{
+				background:#FFEB9C;
+			}
+			
+			#prodIden
+			{
+				background:#65C6BB;
+				width:100%;
+				height:40px;
+				margin-bottom:10px;
+				text-align:center;
+				color:#FFF;
+				font-size:2em;
+				border-radius:2px;
+			}

@@ -1,0 +1,3 @@
+http://srobbin.com/jquery-plugins/pageslide/
+https://github.com/srobbin/jquery-pageslide
+https://github.com/srobbin/jquery-pageslide/issues/75

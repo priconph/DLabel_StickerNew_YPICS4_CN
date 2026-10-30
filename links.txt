@@ -1,0 +1,12 @@
+http://www.vanxuan.net/tool/pdftable/
+http://stackoverflow.com/questions/10426853/setting-paper-size-in-fpdf
+https://github.com/srobbin/jquery-pageslide/pull/154
+https://github.com/obihill/jquery-pageslide/commit/b3ac3adf77e4bcda62b82593319a59cb9ad35ef0
+https://github.com/srobbin/jquery-pageslide/pull/154
+http://www.unheap.com/section/navigation/drawer-responsive/
+http://stackoverflow.com/questions/19034088/prevent-concurrent-access-and-inserts-with-mysql-and-innodb
+https://code.google.com/p/jzebra/
+http://stackoverflow.com/questions/9282049/jzebra-getting-started-with-raw-commands
+https://km.zebra.com/kb/index?page=content&channel=SAMPLE_CODE&cat=ZISV_PL_ZPL
+http://www.webmasterworld.com/forum88/6923.htm
+http://sourceforge.net/projects/phplabelprint/

@@ -1,0 +1,3 @@
+add this line "$query = $query . " ORDER BY XRECE.INPUTDATE DESC"; //added by rona 9/7/2018 due to branch"
+
+kasi lumang price ung nakikita nya
